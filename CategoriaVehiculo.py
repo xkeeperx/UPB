@@ -16,5 +16,3 @@ elif(vehiculo == 7):
     print("Vehiculo Pesados **7 ejes  Tarifa : $/103.600")
 else:
     print("Categoria invalida")
-print("fin programa")
-
